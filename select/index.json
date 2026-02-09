@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "永遠",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-09T11:24:47.268846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/01_永遠_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さくら ~永遠~ feat.湘南乃風",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/02_さくら_~永遠~_feat.湘南乃風_MINMI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_永遠_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/04_永遠_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_永遠_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "永遠〜Lasting heart〜",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/06_永遠〜Lasting_heart〜_2PM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "永遠 ~Lasting heart~",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/07_永遠_~Lasting_heart~_2PM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/08_永遠_BoA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "永遠～Lasting heart～",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/09_永遠~Lasting_heart~_2PM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "田村ゆかり",
+      "has_synced": true,
+      "path": "select/10_永遠_田村ゆかり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "LISA",
+      "has_synced": false,
+      "path": "select/11_永遠_LISA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/12_永遠_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "永遠 ~Eternity~",
+      "artist": "氷室京介",
+      "has_synced": true,
+      "path": "select/13_永遠_~Eternity~_氷室京介.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "永遠 -2015武道館 Live Chocolate Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/14_永遠_-2015武道館_Live_Chocolate_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "永遠",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/15_永遠_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_永遠_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "永遠",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_永遠_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "永遠",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_永遠_キタニタツヤ.txt"
+    }
+  ]
+}
